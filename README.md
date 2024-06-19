@@ -9,8 +9,8 @@
 
 <br /><br /><br />
 
-*Blog: https://fschuindt.722.network/*  
-*Profile: https://fschuindt.722.network/about/*
+*Profile: https://fschuindt.722.network/about/*  
+*Blog: https://fschuindt.722.network/*
 
 ------------
 
